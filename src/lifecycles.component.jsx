@@ -11,7 +11,7 @@ class Lifecycles extends React.Component {
   }
 
   componentDidUpdate() {
-    console.log('componentDidUpdate!');
+    console.log('componentDidUpdate!'); 
   }
 
   componentWillUnmount() {
